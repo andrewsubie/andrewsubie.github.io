@@ -66,20 +66,28 @@ content:
         description: | # this will include new lines to allow paragraphs
           I completed this project as part of an Evolutionary Computation class during the fall semester of my senior year at UVM. What began as a final project for the class quickly grew in scope and was an invaluable experience in both computing and project management. During this project, I created a custom data structure inspired by Compositional Pattern Producing Networks (CCPNs) to represent algebraic formulae. Furthermore, I had foundational lessons about the importance data integrity and data version control for machine learning efforts.  
 
+      - layout: top-middle
+        title: UVM BikeList
+        link: TODO
+        quote: >
+          A database-driven website to buy and sell bicycles for UVM students.
+        description: |
+          This was the final project for a Database Design for Web class I took during the spring semester of my junior year at UVM. This website is a used bicycle marketplace forum for UVM students, staff and faculty. The site uses PHP to read and write from relational databases that store user's information and their listings. The site also has capabilities for users to get in touch with one another securely to arrange sales. There is also an admin section of the website protected by htaccess so only users with approved UVM NetIDs can edit all listings on the website.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: Deep Analytics LLC
+        link: www.deepanalyticsllc.com
+        # link_text: deepanalyticsllc.com
+        sub_title: Data Engineering Intern
+        caption: August 2024 - April 2025
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+          - Collected and structured large datasets through automated web scraping with BeautifulSoup, Selenium, Requests and REST APIs, enabling continuous data updates and scalability.
+          - Engineered robust Python pipelines for data cleaning, preprocessing, normalization and ingestion into PostgreSQL object-relational databases to support machine learning workflows.
+          - Deployed and maintained Dockerized data pipelines on Linux servers, optimizing for performance, scalability, and reproducibility in production environments.
+          - Annotated and curated computer vision datasets with CVAT and FiftyOne, improving model accuracy and supporting iterative training and evaluation cycles.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -87,12 +95,10 @@ content:
         title: University of Vermont
         caption: 2021 - 2025
         sub_title: B.S in Computer Science, Minor in Mathematics
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at UVM, I cultivated keys skills such as teamwork and time management. I thoroughly enjoyed both my coursework and free time as a university student, learning a lot about work-life balance and the value of making strong social connections with your peers.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent nearly all of my free time enjoying Vermont's natural beauty in all seasons; running, hiking and skiing in the Green Mountains, swimming in Vermont's waterways, and riding my bicycle on the Lake Champlain Causeway. 
 
   - title: A Little More About Me
     layout: text
