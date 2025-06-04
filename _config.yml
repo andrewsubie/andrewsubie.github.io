@@ -55,20 +55,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Leveraging Evolutionary Computation to Solve for Polynomial Roots
+        link: github.com/andrewsubie/evol-comp-final
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Developed evolutionary computation algorithms with diversity maintenance to generate and optimize polynomial root-solving formulas.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I completed this project as part of an Evolutionary Computation class during the fall semester of my senior year at UVM. What began as a final project for the class quickly grew in scope and was an invaluable experience in both computing and project management. During this project, I created a custom data structure inspired by Compositional Pattern Producing Networks (CCPNs) to represent algebraic formulae. Furthermore, I had foundational lessons about the importance data integrity and data version control for machine learning efforts.  
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -88,9 +84,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: University of Vermont
+        caption: 2021 - 2025
+        sub_title: B.S in Computer Science, Minor in Mathematics
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -101,10 +97,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      Alongside my interests in data and software engineering some of my other interests and hobbies are:
+      - Running
+      - Backcountry Skiing
+      - Reading
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
