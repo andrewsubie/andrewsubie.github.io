@@ -74,6 +74,14 @@ content:
         description: |
           This was the final project for a Database Design for Web class I took during the spring semester of my junior year at UVM. This website is a used bicycle marketplace forum for UVM students, staff and faculty. The site uses PHP to read and write from relational databases that store user's information and their listings. The site also has capabilities for users to get in touch with one another securely to arrange sales. There is also an admin section of the website protected by htaccess so only users with approved UVM NetIDs can edit all listings on the website.
 
+      - layout: top-middle
+        title: Raspberry Pi Automotive Data Display
+        link: github.com/andrewsubie/raspi-car-computer
+        quote: >
+          A race-car style dashboard computer built using a Raspberry Pi-4B and Python.
+        description: |
+          This was the first truly self-directed semester long project I had to complete in college, and it was a blast. The goal of the project was to make a device that would plug into any modern vehicle's OBD-II interface and display relevant engine data to the user. This project utilizes the python-OBD library to read data from the car's ECU and then the pyGame library to create a basic graphical user interface that formats the data in a useful manner. I particularly enjoyed this project as I was able to combine computing with my interest in vehicles, and see how technology can benefit a user's experience in a vehicle.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -88,6 +96,7 @@ content:
           - Engineered robust Python pipelines for data cleaning, preprocessing, normalization and ingestion into PostgreSQL object-relational databases to support machine learning workflows.
           - Deployed and maintained Dockerized data pipelines on Linux servers, optimizing for performance, scalability, and reproducibility in production environments.
           - Annotated and curated computer vision datasets with CVAT and FiftyOne, improving model accuracy and supporting iterative training and evaluation cycles.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -96,9 +105,9 @@ content:
         caption: 2021 - 2025
         sub_title: B.S in Computer Science, Minor in Mathematics
         description: | # this will include new lines to allow paragraphs
-          During my time at UVM, I cultivated keys skills such as teamwork and time management. I thoroughly enjoyed both my coursework and free time as a university student, learning a lot about work-life balance and the value of making strong social connections with your peers.
-
-          I spent nearly all of my free time enjoying Vermont's natural beauty in all seasons; running, hiking and skiing in the Green Mountains, swimming in Vermont's waterways, and riding my bicycle on the Lake Champlain Causeway. 
+          During my time at UVM, I achieved a GPA of 3.6/4.0 and cultivated keys skills such as teamwork and time management. I thoroughly enjoyed both my coursework and free time as a university student, learning a lot about work-life balance and the value of making strong social connections with your peers.
+          
+          I spent nearly all of my free time enjoying Vermont's natural beauty, and was involved with the <mark>UVM Alpine Ski Racing Club</mark>, serving on the executive board for two years.
 
   - title: A Little More About Me
     layout: text
@@ -108,7 +117,6 @@ content:
       - Backcountry Skiing
       - Reading
       - Automotive Projects
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
