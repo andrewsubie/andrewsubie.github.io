@@ -33,7 +33,7 @@ youtube_username: channel/UC5WuqCUWn7ryBcFUWpI5PDA
 additional_links:
 - title: My Old Website
   icon: fas fa-globe
-  url: https://www.asubach.w3.uvm.edu
+  url: https://asubach.w3.uvm.edu/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -107,6 +107,7 @@ content:
       - Running
       - Backcountry Skiing
       - Reading
+      - Automotive Projects
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
