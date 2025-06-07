@@ -124,7 +124,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: References on request | site constructed with template https://github.com/sproogen/modern-resume-theme?tab=readme-ov-file (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
