@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Andrew and I'm a driven software engineer, tinkerer and lifelong learner. Recently, I graduated from UVM where my experiences spanned machine learning, software development and renewable energy systems. Proficient in <mark>Python</mark>, skilled in <mark>PHP</mark>, <mark>Git</mark>, <mark>Docker</mark>, <mark>Git</mark>, Linux CLI, and data analysis. I excel at developing efficient, practical solutions to complex problems and collaborating in multidisciplinary teams to achieve project goals.
+  Hello, my name is Andrew and I'm a driven software engineer, tinkerer and lifelong learner. Recently, I graduated from UVM where my experiences spanned machine learning, software development and renewable energy systems. Proficient in <mark>Python</mark>, skilled in <mark>PHP</mark>, <mark>Git</mark>, <mark>Docker</mark>, <mark>SQL</mark>, Linux (<mark>Ubuntu</mark>, <mark>Debian</mark>) CLI, and data analysis. I excel at developing efficient, practical solutions to complex problems and collaborating in multidisciplinary teams to achieve project goals.
 
 content:
   - title: Projects # Title for the section
@@ -70,7 +70,7 @@ content:
         title: UVM BikeList
         link: github.com/andrewsubie/uvm-bikelist
         quote: >
-          A full-stack HTML/PHP website for University of Vermont students to buy and sell bicycles.
+          A full-stack HTML/PHP web application for the University of Vermont community to buy and sell bicycles.
         description: |
           This was the final project for a Database Design for Web class I took during the spring semester of my junior year at UVM. This website is a used bicycle marketplace forum for UVM students, staff and faculty. The site uses PHP to read and write from relational databases that store user's information and their listings. The site also has capabilities for users to get in touch with one another securely to arrange sales. There is also an admin section of the website protected by htaccess so only users with approved UVM NetIDs can edit all listings on the website.
 
@@ -80,7 +80,7 @@ content:
         quote: >
           A race-car style dashboard computer built using a Raspberry Pi-4B and Python.
         description: |
-          This was the first truly self-directed semester long project I had to complete in college, and it was a blast. The goal of the project was to make a device that would plug into any modern vehicle's OBD-II interface and display relevant engine data to the user. This project utilizes the python-OBD library to read data from the car's ECU and then the pyGame library to create a basic graphical user interface that formats the data in a useful manner. I particularly enjoyed this project as I was able to combine computing with my interest in cars, and see how technology can benefit a user's experience in a vehicle.
+          This was the first self-directed, semester-long project I had to complete in college; it was a blast. The goal of the project was to make a device that would plug into any modern vehicle's OBD-II interface and display relevant engine data to the user. This project utilizes the python-OBD library to read data from the car's ECU and then the pyGame library to create a basic graphical user interface that formats the data in a useful manner. I particularly enjoyed this project as I was able to combine computing with my interest in cars, and see how technology can benefit a user's experience in a vehicle.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
