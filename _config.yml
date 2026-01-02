@@ -54,6 +54,20 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
+    - layout: top-middle
+        title: Bivo Dealer Map Migration
+        link: github.com/charlotte-cmyk/Bivo-Dealers/tree/main
+        # link_text: Project Website
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Migrated the drinkbivo.com dealer map from Google Maps to Mapbox, utilizing JavaScript to create custom information popups and python to clean, process and transform geospatial datasets.
+        description: | # this will include new lines to allow paragraphs
+          This was a side project I worked on during my time at Bivo. While the dataset was relatively small and required only rudimentary transformations, I learned a lot about the lack of standardization for geospatial datasets. It was also enjoyable to learn basic JavaScript to help make the dealer information popups. Overall I'm happy with the end-product of this side project, and find the water-camo heatmap to be very aesthetically pleasing. 
+
+    
       - layout: top-middle
         title: Leveraging Evolutionary Computation to Solve for Polynomial Roots
         link: github.com/andrewsubie/evol-comp-final
