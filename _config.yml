@@ -98,7 +98,19 @@ content:
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content: 
+    
+      - layout: left
+        title: Bivo
+        link: www.drinkbivo.com
+        # link_text: drinkbivo.com
+        sub_title: Warehouse Manager and Web Developer
+        caption: August 2025 - January 2026
+        description: | # this will include new lines to allow paragraphs
+          - Oversaw all B2B and DTC shipping and logistics operations, ensuring timely and accurate order fulfillment. Led continuous improvement initiatives and cross-functional collaboration with engineering and marketing teams to streamline processes, support product launches, and enhance customer experience.
+          - Utilized Shopify and warehouse data to optimize accuracy through regular cycle counts and implement data driven strategies to enhance efficiency and reduce fulfillment errors.
+          - Enhanced internal and customer-facing digital infrastructure, configuring Shopify tools and leveraging HTML and JavaScript to deliver web features such as the dealer map that supported customer engagement and operations. 
+          
       - layout: left
         title: Deep Analytics LLC
         link: www.deepanalyticsllc.com
