@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
     
-    - layout: top-middle
+      - layout: top-middle
         title: Bivo Dealer Map Migration
         link: github.com/charlotte-cmyk/Bivo-Dealers/tree/main
         # link_text: Project Website
