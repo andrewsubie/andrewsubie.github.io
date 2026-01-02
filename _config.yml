@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Andrew and I'm a driven software engineer, tinkerer and lifelong learner. Recently, I graduated from UVM where my experiences spanned machine learning, software development and renewable energy systems. Proficient in <mark>Python</mark>, skilled in <mark>PHP</mark>, <mark>Git</mark>, <mark>Docker</mark>, <mark>SQL</mark>, Linux (<mark>Ubuntu</mark>, <mark>Debian</mark>) CLI, and data analysis. I excel at developing efficient, practical solutions to complex problems and collaborating in multidisciplinary teams to achieve project goals.
+  Hello, my name is Andrew and I'm a driven software engineer, tinkerer and lifelong learner. I graduated from UVM where my experiences spanned machine learning, software development and renewable energy systems. Proficient in <mark>Python</mark>, skilled in <mark>PHP</mark>, <mark>Git</mark>, <mark>Docker</mark>, <mark>SQL</mark>, Linux (<mark>Ubuntu</mark>, <mark>Debian</mark>) CLI, and data analysis. I excel at developing efficient, practical solutions to complex problems and collaborating in multidisciplinary teams to achieve project goals. Since then, I guided bike tours in Alaska and spent some time working in e-commerce within the outdoor recreation industry.
 
 content:
   - title: Projects # Title for the section
