@@ -98,8 +98,19 @@ content:
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content: 
-    
+    content:
+      - layout: left
+          title: Wildlife Imaging Systems
+          link: www.wildlifeimagingsystems.com
+          # link_text: wildlifeimagingsystems.com
+          sub_title: Project Data Scientist
+          caption: February 2026 - Present
+          description: | # this will include new lines to allow paragraphs
+            - Built and maintained Python-based video processing pipelines for high-throughput wildlife footage, using CI/CD workflows to automate testing and deployment.
+            - Designed and built a PyQt-based camera configuration tool with HTTP-driven device control and integrated logging, significantly reducing deployment time.
+            - Specified and built a multi-camera synchronization system using PTP and GPS-disciplined clocks for network time sync, validating frame alignment via FFT-based analysis to achieve ms-level precision across camera pairs.
+            - Conducted acoustic validation testing using FFT and spectrogram analysis to confirm sufficient dB output at target ultrasonic frequencies for wildlife deterrent systems. Designing custom 3D-printed mounting brackets in CAD to support test equipment configurations.
+
       - layout: left
         title: Bivo
         link: www.drinkbivo.com
